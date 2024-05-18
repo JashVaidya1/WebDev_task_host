@@ -1,0 +1,95 @@
+body {
+    font-family: Arial;
+    background-color: #f6f6f6;
+    margin: 0;
+    padding: 0
+}
+
+.head img {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+
+#ul1 {
+    list-style: none;
+    font-family: "Teko";
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+    overflow: hidden;
+}
+
+#ul1 li {
+    float: left;
+}
+
+#ul1 .option a:hover {
+    opacity: 0.8;
+    background-color: rgb(102, 100, 100);
+    color: white;
+}
+
+
+
+.act {
+    background-color: rgb(0, 0, 0);
+
+}
+
+.act div {
+    color: white;
+}
+
+#ul1 li a {
+    color: black;
+    display: block;
+    text-align: center;
+    font-size: 1.6vw;
+    padding: 0.8vw 2vw;
+    text-decoration: none;
+}
+
+#ul1 img {
+    height: 1.8vw;
+}
+
+
+
+
+
+
+#breaking-news #ul2 {
+    display: block;
+    height: 5vh;
+    background-color: #cdcdcd;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#ul2 img {
+    display: block;
+    height: 2.5vh;
+}
+
+#ul2 li {
+    color: white;
+    display: block;
+    padding: 1vh 0.5vw;
+    margin: 0;
+    float: left;
+    font-size: 2vh;
+}
+
+#marq_1 {
+    width: 10vw;
+    color: #000;
+}
+
+#marq_2 {
+    width: 55vw;
+    color: #000;
+}

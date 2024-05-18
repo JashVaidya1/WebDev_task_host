@@ -1,0 +1,150 @@
+.contain .text {
+
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    position: absolute;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+
+.contain #text_1 {
+
+    width: 80%;
+    height: 20%;
+    top: 70%;
+    left: 10%;
+    font-size: 4vh;
+
+}
+
+.contain .date {
+    display: block;
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    width: 80%;
+    height: 2vw;
+    color: white;
+    font-size: 1vw;
+    text-shadow: 2px 2px 1px black;
+}
+
+.headline {
+    display: block;
+    width: 80%;
+    height: 90%;
+    font-size: 1vw;
+
+    color: white;
+    position: absolute;
+    top: 2vw;
+    left: 5%;
+}
+
+.author {
+    display: block;
+    width: 90%;
+    height: 20%;
+    font-size: 1vw;
+
+    color: white;
+    position: absolute;
+    top: 8vw;
+    left: 5%;
+}
+
+.content {
+    display: block;
+    width: 90%;
+    height: 30%;
+    font-size: 1vw;
+
+    color: white;
+    position: absolute;
+    top: 15vw;
+    left: 5%;
+}
+
+
+.contain #text_2 {
+
+    width: 80%;
+    height: 20%;
+    top: 70%;
+    left: 10%;
+
+    font-size: 4vh;
+
+}
+
+.contain #text_3 {
+
+    width: 80%;
+    height: 30%;
+    top: 50%;
+    left: 10%;
+    font-size: 2.8vh;
+
+}
+
+
+.contain #text_4 {
+
+    width: 80%;
+    height: 30%;
+    top: 50%;
+    left: 10%;
+
+    font-size: 2.8vh;
+
+}
+
+.contain .date_34 {
+    display: block;
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    width: 80%;
+    height: 2vw;
+    color: white;
+    font-size: 1.1vw;
+    text-shadow: 1.5px 1.5px 1px black;
+}
+
+
+#sub_box_txt {
+    display: block;
+    position: absolute;
+    left: 6vw;
+    width: 8vw;
+    height: 5vw;
+}
+
+#sub_box_txt div {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+
+    position: relative;
+    width: 8vw;
+    height: 3vw;
+    margin-bottom: 3vw;
+    font-size: 1vw;
+}
+
+#sub_date div p {
+
+    position: relative;
+    left: 7.2vw;
+    top: 0.2vw;
+    width: 6vw;
+    height: 3vw;
+    font-size: 1vw;
+}
